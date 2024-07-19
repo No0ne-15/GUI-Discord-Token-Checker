@@ -7,11 +7,11 @@ If you need help, please contact me on discord : no0ne_15
 ## Features
 
 ```
-✅ - Get Account Informations (Email, ID, username, Nitro, ...)
-✅ - Get Billing Informations (Credit Card numbers, Credit Card Expiry, Adress, ...)
-✅ - Version Checker
-✅ - Easy to use
-✅ - Clean UI
+✅ - HTTP Proxy support
+✅ - Proxyless Option
+✅ - Multithreaded
+✅ - Clean GUI
+✅ - Easy to Use
 ```
 
 ## Installation
