@@ -1,6 +1,6 @@
 # 🔥 GUI Token Checker
 
-If you need help, please contact me on discord : no0ne_15
+If you need help, please contact me on discord :
 - discord server: https://discord.no0ne-community.com/
 - website: https://no0ne-community.com/
 
