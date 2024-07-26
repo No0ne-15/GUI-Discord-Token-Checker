@@ -7,18 +7,20 @@
 import threading
 import os
 import random
-import webbrowser
 
 try:
     import httpx
     import customtkinter as ctk
     import win32gui
     import win32.lib.win32con as win32con
+    import webbrowser
+    
 except ModuleNotFoundError:
     os.system("pip install httpx")
     os.system("pip install customtkinter")
     os.system("pip install win32gui")
     os.system("pip install pypiwin32")
+    os.system("pip install webbrowser")
 
 red = "#e83535"
 light_red = "#f56e6e"
